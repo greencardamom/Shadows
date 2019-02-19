@@ -10,12 +10,11 @@ Shadows is a Wikipedia bot to add {{Shadows Commons}} to File: pages
 
 See [WP:Bots/Requests for approval/GreenC bot 10](https://en.wikipedia.org/wiki/User:GreenC_bot/Job_10)
 
-It connects to the SQL replicas thus can only be run on Toolforge.
-
 Requirements
 ========
 * GNU Awk 4.1+
 * [BotWikiAwk](https://github.com/greencardamom/BotWikiAwk) (version Jan 2019 +)
+* It connects to the SQL replicas thus must be run from Toolforge
 
 Installation
 ========
