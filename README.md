@@ -47,7 +47,7 @@ Installation
 Running
 ========
 
-3. Run reftalk
+1. Run reftalk
 
      On Toolforge from the command-line:
 
@@ -66,9 +66,9 @@ Running
 
      ie. check at 4:37am (GMT) once a day
 
-4. Monitor ~/Shadows/log files discovered, error and syslog
+2. Monitor ~/Shadows/log files discovered, error and syslog
 
-5. To stop and restart
+3. To stop and restart
 
      To stop on Toolforge
 
