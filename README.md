@@ -75,4 +75,4 @@ Running
        qstat  (display the job number)
        qdel <job #>
 
-     To restart, see step #3. 
+     To restart, see step #1. 
