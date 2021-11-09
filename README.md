@@ -1,7 +1,7 @@
 Shadows
 ===================
 by User:GreenC (en.wikipedia.org)
-Copyright 2019
+Copyright 2019-2021
 MIT License
 
 Info
@@ -13,6 +13,7 @@ See [WP:Bots/Requests for approval/GreenC bot 10](https://en.wikipedia.org/wiki/
 Requirements
 ========
 * GNU Awk 4.1+
+* Python 3.5
 * [BotWikiAwk](https://github.com/greencardamom/BotWikiAwk) (version Jan 2019 +)
 * It connects to the SQL replicas thus must be run from Toolforge
 
@@ -43,6 +44,7 @@ Installation
 		}
 
 4. Set ~/Shadows/shadows.awk to mode 750, set the first shebang line to location of awk
+   Set ~/Shadows/shadows.py to mode 750, set the first shebang line to location of Python 3.5
 
 Running
 ========
