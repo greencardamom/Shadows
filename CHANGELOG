@@ -1,4 +1,4 @@
 # Changes in reverse chronological order
 #
+# 1.50 Nov 09 2021 - converted from shadows.sql to shadows.py for file list generation
 # 1.00 Feb 19 2019 - on bot approval
-
