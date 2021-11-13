@@ -1,8 +1,14 @@
 Shadows
 ===================
+shadows.awk 
 by User:GreenC (en.wikipedia.org)
 Copyright 2019-2021
 MIT License
+
+shadows.py
+by User:AntiCompositeNumber (en.wikipedia.org)
+Copyright 2021
+Apache License 2.0
 
 Info
 ========
